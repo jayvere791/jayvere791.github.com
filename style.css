@@ -1,11 +1,11 @@
 .contact { text-align: left;
-           font-size: 20px;
+           font-size: 15px;
             font-family: "Gadget",sans-serif; }
 
 summary { display: inline; }
   
     
-    body { padding:25px;
+    body { padding:15px;
         background-color: #d1e0e0;
                font-family: "courier new", serif;
             margin: 3rem}
