@@ -2,14 +2,17 @@
            font-size: 20px;
             font-family: "Gadget",sans-serif; }
 
-summary { display: flex; }
+summary { text-align: center; }
   
     
     body {
         background-color: #d1e0e0;
-         font-family: "courier new", serif;
-               flex-wrap: wrap;
-          }
+               font-family: "courier new", serif; }
+              
+exp {   }
+
+
+edu {    }
 
    
 
