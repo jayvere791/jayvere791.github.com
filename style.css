@@ -1,9 +1,10 @@
 .contact { text-align: left;
-   font-size: 20px; }
+           font-size: 20px;
+            font-family: "Gadget",sans-serif; }
   
     
     body {text-align: center;
-        background-color: #75a3a3; }
+        background-color: #a3c2c2; }
 
 p {color: red;
 }
