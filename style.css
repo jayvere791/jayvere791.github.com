@@ -2,7 +2,8 @@
            font-size: 20px;
             font-family: "Gadget",sans-serif; }
 
-summary { margin: 3rem; }
+summary { text-align:right ;
+           margin: 3rem; }
   
     
     body { padding:25px;
