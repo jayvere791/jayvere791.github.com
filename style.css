@@ -1,6 +1,8 @@
 .contact { text-align: left;
            font-size: 20px;
             font-family: "Gadget",sans-serif; }
+
+summary { text-align: justify; }
   
     
     body {text-align: center;
