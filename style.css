@@ -5,7 +5,7 @@
 summary { text-align: center; }
   
     
-    body {
+    body { padding:25px;
         background-color: #d1e0e0;
                font-family: "courier new", serif; }
               
