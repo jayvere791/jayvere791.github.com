@@ -2,13 +2,15 @@
            font-size: 20px;
             font-family: "Gadget",sans-serif; }
 
-summary { text-align: justify; }
+summary { display: flex; }
   
     
     body {text-align: center;
         background-color: #d1e0e0;
          font-family: "courier new", serif;
-         display: flex; }
+          }
+
+   
 
 
 
