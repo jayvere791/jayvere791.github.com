@@ -3,7 +3,8 @@
              font-weight: bold;         
    }
 
-.summary { float:right; }   
+.summary { float:right;
+           width:80px; }   
 
 
 
