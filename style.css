@@ -1,21 +1,52 @@
-
-.contact {background-color:#ff3300;
-          height:150px;
-          width:180px ;}
+.contact {background-color:#ff1a1a;
+          height:220px;
+          width:250px ;
+          padding-left:30px;
+          padding-top:30px ;
+          padding-right:30px ;
+          padding-bottom:30px;
+          margin:0px 300px 0px 0px;  }
              
    
 
-.summary   {background-color:#ff0000;
-            padding: 50px}
+.summary   {background-color:#ffff66;
+
+	         width:500px;
+            padding-right:60px;
+            padding-left:30px; 
+            padding-bottom:30px;
+            padding-top:30px ;
+            float:right;
+            margin:-250px 300px 400px 0px;}
 
 
-.exp {background-color:#00ff00;}
+.exp {background-color:#66ff33;
+	  width:500px;
+      padding-left:30px ;
+      padding-top: 30px;
+      padding-right:30px ;
+      padding-bottom:30px; 
+      clear:right;
+      float:right;
+       margin:300px 300px 0px 0px;}
 
 
-.edu{background-color:#ffff00;}
+.edu{background-color:#ff66ff;
+	 width:500px;
+     padding-left:30px ;
+      padding-top:30px ;
+      padding-right:30px ;
+      padding-bottom: 30px;
+      float:right;
+      clear:right;
+      margin:300px 300px 0px 0px;}
+ }
 
 
-.skill {background-color:#ff66cc;}
+      
+.skill {background-color: #ff66ff;
+        clear:right;
+        float:right;}
 
 
 
