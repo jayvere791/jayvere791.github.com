@@ -1,15 +1,17 @@
 
-.contact {background-color:#e60000}
+.contact {background-color:#e60000;
+          height:150px;
+          width: 150px;}
              
    
 
-.summary   {background-color:#cc3399}
+.summary   {background-color:#cc3399;}
 
 
-.exp {background-color:#00ff00}
+.exp {background-color:#00ff00;}
 
 
-.edu{background-color:#ffff00}
+.edu{background-color:#ffff00;}
 
 
 .Refrences {background-color:#cc6600;}
