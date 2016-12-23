@@ -1,13 +1,12 @@
 
 .contact {   float: left;
-             font-weight: bold;         
+             font-weight: bold; 
+             
    }
 
-.summary { float:right;
-           width:20px;
-           background-color:#e60000;
-           height:50px;
-           width:75px;}   
+.summary {  background-color: #00ff00;
+          height: 82px;
+          width: 31px}   
 
 
 
