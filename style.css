@@ -1,52 +1,85 @@
-.contact {background-color:#ff1a1a;
-          height:220px;
+.contact {background-color:;
+          height:200px;
           width:250px ;
-          padding-left:30px;
-          padding-top:30px ;
-          padding-right:30px ;
-          padding-bottom:30px;
-          margin:0px 300px 0px 0px;  }
+          
+          letter-spacing: 2px;
+          padding: 30px 30px 30px 30px;
+
+           margin: ;
+            font-family: "garamond";
+          font-size: 18px;}
              
    
 
-.summary   {background-color:#ffff66;
+.summary   {background-color:;
+            font-size: 20px;
+           
+            height:300px;
+	        width:473px;
+           
+	        padding: 30px 30px 30px 30px;
 
-	         width:500px;
-            padding-right:60px;
-            padding-left:30px; 
-            padding-bottom:30px;
-            padding-top:30px ;
-            float:right;
-            margin:-250px 300px 400px 0px;}
+            margin: -260px 300px 0px 0px ;
+           
+
+            float:right;}
+           
 
 
-.exp {background-color:#66ff33;
-	  width:500px;
-      padding-left:30px ;
-      padding-top: 30px;
-      padding-right:30px ;
-      padding-bottom:30px; 
+.exp {background-color:;
+
+	  height: px;
+	  width:450px;
+	  font-size:20px;
+
+      padding: 30px 30px 30px 30px;
+
       clear:right;
       float:right;
-       margin:300px 300px 0px 0px;}
+
+      margin: 0px 330px 0px 0px;
+
+  }
 
 
-.edu{background-color:#ff66ff;
-	 width:500px;
-     padding-left:30px ;
-      padding-top:30px ;
-      padding-right:30px ;
-      padding-bottom: 30px;
+
+.edu{background-color:;
+
+	 font-size:20px;
+
+	 height: px;
+	 width: 473px;
+
+     padding:30px 30px 30px 30px;
+
+
       float:right;
       clear:right;
-      margin:300px 300px 0px 0px;}
- }
+
+       margin: 0px 290px 0px 0px;
+
+   }
 
 
-      
-.skill {background-color: #ff66ff;
-        clear:right;
-        float:right;}
+.skills{ float:right;
+         clear:right; 
+         margin: 0px 340px 0px 0px;
+         background-color:;
+         width:473px ;
+         font-size: 20px;
+         background-color:;
+         }
+
+         p.small {
+    line-height: 10px;
+}
+ 
+         
+         body {
+     background-color: #c2c2a3;
+}
+
+
 
 
 
