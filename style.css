@@ -1,62 +1,44 @@
-.contact {background-color:;
+.contact {
           height:200px;
           width:250px ;
-          
           letter-spacing: 2px;
           padding: 30px 30px 30px 30px;
-
-           margin: ;
-            font-family: "garamond";
-          font-size: 18px;}
+          margin: ;
+          font-family: "garamond";
+          font-size: 20px}
              
    
 
-.summary   {background-color:;
+.summary   {
             font-size: 20px;
-           
             height:300px;
-	        width:473px;
-           
-	        padding: 30px 30px 30px 30px;
-
+            width:473px;
+            padding: 30px 30px 30px 30px;
             margin: -260px 300px 0px 0px ;
-           
-
             float:right;}
            
 
 
-.exp {background-color:;
-
-	  height: px;
-	  width:450px;
-	  font-size:20px;
-
+.exp {
+      height: ;
+      width:450px;
+      font-size:20px;
       padding: 30px 30px 30px 30px;
-
       clear:right;
       float:right;
-
       margin: 0px 330px 0px 0px;
 
   }
 
 
 
-.edu{background-color:;
-
-	 font-size:20px;
-
-	 height: px;
-	 width: 473px;
-
-     padding:30px 30px 30px 30px;
-
-
+.edu{ font-size:20px;
+      height: px;
+      width: 473px;
+      padding:30px 30px 30px 30px;
       float:right;
       clear:right;
-
-       margin: 0px 290px 0px 0px;
+      margin: 0px 290px 0px 0px;
 
    }
 
@@ -67,12 +49,11 @@
          background-color:;
          width:473px ;
          font-size: 20px;
-         background-color:;
+         font-size: 20px;
          }
 
-         p.small {
-    line-height: 10px;
-}
+       
+
  
          
          body {
@@ -80,6 +61,12 @@
 }
 
 
+   h1  { font-size: 60px;
+         font-family:italic;
+       }
 
 
+   h2  { font-size: 40px;
+         font-family:italic;
 
+       }
